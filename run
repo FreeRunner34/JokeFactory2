@@ -1,0 +1,5 @@
+#!/users//CLI_Test/bin/ruby 
+
+require_relative "../lib/config/environment.rb"
+
+Cli.new
